@@ -4,3 +4,9 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+axum = "0.8.4"
+config = "0.15.13"
+dotenvy = "0.15.7"
+serde = "1.0.219"
+sqlx = "0.8.6"
+tokio = "1.46.1"
