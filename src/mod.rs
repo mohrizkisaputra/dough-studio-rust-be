@@ -1,4 +1,5 @@
 pub mod controllers;
 pub mod models;
-pub mod query;
-pub mod consumers;
+pub mod repository;
+pub mod consumer;
+pub mod helper;
